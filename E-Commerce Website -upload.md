@@ -12,11 +12,11 @@
 
 * Remote Code Execution:    
 
-![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/upfile1.png)     
+![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/upfile-1.png)     
 
-![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/upfile2.png)    
+![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/upfile-2.png)    
 
-![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/upfile3.png)     
+![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/upfile-3.png)     
 
-![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/upfile4.png)   
+![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/upfile-4.png)   
 
