@@ -6,14 +6,17 @@
 
 * Version: 1.0    
 
-* Vulnerable file：  
+* Vulnerable file：prodViewUpdate.php
 
-![image]()  
+![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/prodViewUpdate.php.png)  
 
 * Remote Code Execution:    
 
-![image]()    
+![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/upfile1.png)     
 
-* Get shell  
+![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/upfile2.png)    
 
-![image]()    
+![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/upfile3.png)     
+
+![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/upfile4.png)   
+
