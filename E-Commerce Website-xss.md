@@ -6,11 +6,12 @@
 
 * Version: 1.0  
 
-* Vulnerable file：    
-![image]()    
+* Vulnerable file： feedback_process.php  
+![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/feedback_process.png)    
   
-* Stored XSS 
-![image]()   
+* Stored XSS   
+
+![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/xss-1.png)   
  
-![image]()     
+![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/xss-2.png)     
 
