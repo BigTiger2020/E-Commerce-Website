@@ -8,8 +8,8 @@
 
 * Vulnerable file： empViewUpdate.php  
 
-![image]()  
+![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/empViewUpdate.php.png)  
 
 * Sql Injection  
 
-![image]() 
+![image](https://github.com/BigTiger2020/E-Commerce-Website/blob/main/sql.png) 
